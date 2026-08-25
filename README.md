@@ -100,9 +100,9 @@ Registers a user.
 
 ```json
 {
-  "name": "Asha Sharma",
-  "username": "asha",
-  "email": "asha@example.com",
+  "name": "Ironman Sarma",
+  "username": "the_real_ironman",
+  "email": "ironman@example.com",
   "phone": "9876543210",
   "password": "strong-password"
 }
