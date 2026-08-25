@@ -1,0 +1,5 @@
+fastapi
+python-jose[cryptography]
+psycopg
+passlib
+argon2-cffi
